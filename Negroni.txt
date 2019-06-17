@@ -1,0 +1,10 @@
+
+Negroni
+
+A favorite of bartenders all over the world, the Negroni is a simple three-ingredient cocktail:
+
+- 1 oz gin
+- 1 oz Campari
+- 1 oz sweet vermouth
+
+Stir ingredients with ice.
