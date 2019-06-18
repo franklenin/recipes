@@ -1,3 +1,3 @@
 # Recipes
 
-## This repository contains the 6 most popular drinks' recipe.
+## This repository contains the 6 most popular drinks' recipe, and their corresponding photos.
